@@ -9,8 +9,7 @@
 5) Double click on NinjaCasino.feature on Cypress Dashboard
 
 
-**This Script will test following scenarios -
-**
+**This Script will test following scenarios**
 
 1) A (logged out) user should be able to find and open the game.
 2) A (logged out) user should be able to switch language by the mean of the menu 
